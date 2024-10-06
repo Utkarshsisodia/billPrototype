@@ -1,0 +1,26 @@
+body{
+    font-size: 14px;  
+}
+table{
+    margin: auto;
+    table-layout: fixed;
+    width: 800px;
+    border-collapse: collapse;
+}
+caption{
+    display: flex;
+    align-items: center;
+    gap: 17em;
+    justify-content: space-evenly;
+}
+
+.headerTitle{
+    color: white;
+}
+.wordSpacing{
+    font-size: 12px;
+    word-spacing:20px;
+}
+th,td{
+    width: 400px;
+}
